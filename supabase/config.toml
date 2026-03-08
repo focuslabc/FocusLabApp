@@ -1,0 +1,10 @@
+# Supabase Configuration for Focus Lab
+# Client-side only - No edge functions
+
+[project]
+
+[auth]
+enabled = true
+
+[db]
+pooler_enabled = false
